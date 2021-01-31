@@ -67,7 +67,7 @@
 65,51,Alolan Dugtrio,1,Normal,Mole Pokémon,2,Ground,Steel,0.7,66.6,3,Sand Veil,Tangling Hair,Sand Force,425,35,100,60,50,70,110,50,50,149,Medium Fast,1,Field,,50,20
 66,52,Meowth,1,Normal,Scratch Cat Pokémon,1,Normal,,0.4,4.2,3,Pickup,Technician,Unnerve,290,40,45,35,40,40,90,255,50,58,Medium Fast,1,Field,,50,20
 67,52,Alolan Meowth,1,Normal,Scratch Cat Pokémon,1,Dark,,0.4,4.2,3,Pickup,Technician,Rattled,290,40,35,35,50,40,90,255,50,58,Medium Fast,1,Field,,50,20
-68,52,Galarian Meowth,1,Normal,Scratch Cat Pokémon,1,Steel,,0.4,7.5,3,Pickup,Tough Claws,Unnerve,290,50,65,55,40,40,40,255,50,58,Medium Fast,1,Field,,,20
+68,52,Galarian Meowth,1,Normal,Scratch Cat Pokémon,1,Steel,,0.4,7.5,3,Pickup,Tough Claws,Unnerve,290,50,65,55,40,40,40,255,50,58,Medium Fast,1,Field,,50,20
 69,53,Persian,1,Normal,Classy Cat Pokémon,1,Normal,,1,32,3,Limber,Technician,Unnerve,440,65,70,60,65,65,115,90,50,154,Medium Fast,1,Field,,50,20
 70,53,Alolan Persian,1,Normal,Classy Cat Pokémon,1,Dark,,1.1,33,3,Fur Coat,Technician,Rattled,440,65,60,60,75,65,115,90,50,154,Medium Fast,1,Field,,50,20
 71,54,Psyduck,1,Normal,Duck Pokémon,1,Water,,0.8,19.6,3,Damp,Cloud Nine,Swift Swim,320,50,52,48,65,50,55,190,50,64,Medium Fast,2,Field,Water 1,50,20
@@ -98,16 +98,16 @@
 96,76,Golem,1,Normal,Megaton Pokémon,2,Rock,Ground,1.4,300,3,Rock Head,Sturdy,Sand Veil,495,80,120,130,55,65,45,45,50,223,Medium Slow,1,Mineral,,50,15
 97,76,Alolan Golem,1,Normal,Megaton Pokémon,2,Rock,Electric,1.7,316,3,Magnet Pull,Sturdy,Galvanize,495,80,120,130,55,65,45,45,50,223,Medium Slow,1,Mineral,,50,15
 98,77,Ponyta,1,Normal,Fire Horse Pokémon,1,Fire,,1,30,3,Run Away,Flash Fire,Flame Body,410,50,85,55,65,65,90,190,50,82,Medium Fast,1,Field,,50,20
-99,77,Galarian Ponyta,1,Normal,Unique Horn Pokémon,1,Psychic,,0.8,24,3,Run Away,Pastel Veil,Anticipation,410,50,85,55,65,65,90,190,50,82,Medium Fast,1,Field,,,20
+99,77,Galarian Ponyta,1,Normal,Unique Horn Pokémon,1,Psychic,,0.8,24,3,Run Away,Pastel Veil,Anticipation,410,50,85,55,65,65,90,190,50,82,Medium Fast,1,Field,,50,20
 100,78,Rapidash,1,Normal,Fire Horse Pokémon,1,Fire,,1.7,95,3,Run Away,Flash Fire,Flame Body,500,65,100,70,80,80,105,60,50,175,Medium Fast,1,Field,,50,20
-101,78,Galarian Rapidash,1,Normal,Unique Horn Pokémon,2,Psychic,Fairy,1.7,80,3,Run Away,Pastel Veil,Anticipation,500,65,100,70,80,80,105,60,50,175,Medium Fast,1,Field,,,20
+101,78,Galarian Rapidash,1,Normal,Unique Horn Pokémon,2,Psychic,Fairy,1.7,80,3,Run Away,Pastel Veil,Anticipation,500,65,100,70,80,80,105,60,50,175,Medium Fast,1,Field,,50,20
 102,79,Slowpoke,1,Normal,Dopey Pokémon,2,Water,Psychic,1.2,36,3,Oblivious,Own Tempo,Regenerator,315,90,65,65,40,40,15,190,50,63,Medium Fast,2,Monster,Water 1,50,20
 103,80,Slowbro,1,Normal,Hermit Crab Pokémon,2,Water,Psychic,1.6,78.5,3,Oblivious,Own Tempo,Regenerator,490,95,75,110,100,80,30,75,50,172,Medium Fast,2,Monster,Water 1,50,20
 104,80,Mega Slowbro,1,Normal,Hermit Crab Pokémon,2,Water,Psychic,2,120,1,Shell Armor,,,590,95,75,180,130,80,30,75,50,207,Medium Fast,2,Monster,Water 1,50,20
 105,81,Magnemite,1,Normal,Magnet Pokémon,2,Electric,Steel,0.3,6,3,Magnet Pull,Sturdy,Analytic,325,25,35,70,95,55,45,190,50,65,Medium Fast,1,Mineral,,,20
 106,82,Magneton,1,Normal,Magnet Pokémon,2,Electric,Steel,1,60,3,Magnet Pull,Sturdy,Analytic,465,50,60,95,120,70,70,60,50,163,Medium Fast,1,Mineral,,,20
 107,83,Farfetch'd,1,Normal,Wild Duck Pokémon,2,Normal,Flying,0.8,15,3,Keen Eye,Inner Focus,Defiant,377,52,90,55,58,62,60,45,50,132,Medium Fast,2,Field,Flying,50,20
-108,83,Galarian Farfetch'd,1,Normal,Wild Duck Pokémon,1,Fighting,,0.8,42,2,Steadfast,,Scrappy,377,52,95,55,58,62,55,45,50,132,Medium Fast,2,Field,Flying,,20
+108,83,Galarian Farfetch'd,1,Normal,Wild Duck Pokémon,1,Fighting,,0.8,42,2,Steadfast,,Scrappy,377,52,95,55,58,62,55,45,50,132,Medium Fast,2,Field,Flying,50,20
 109,84,Doduo,1,Normal,Twin Bird Pokémon,2,Normal,Flying,1.4,39.2,3,Run Away,Early Bird,Tangled Feet,310,35,85,45,35,35,75,190,50,62,Medium Fast,1,Flying,,50,20
 110,85,Dodrio,1,Normal,Triple Bird Pokémon,2,Normal,Flying,1.8,85.2,3,Run Away,Early Bird,Tangled Feet,470,60,110,70,60,60,110,45,50,165,Medium Fast,1,Flying,,50,20
 111,86,Seel,1,Normal,Sea Lion Pokémon,1,Water,,1.1,90,3,Thick Fat,Hydration,Ice Body,325,65,45,55,45,70,45,190,50,65,Medium Fast,2,Field,Water 1,50,20
@@ -140,7 +140,7 @@
 138,108,Lickitung,1,Normal,Licking Pokémon,1,Normal,,1.2,65.5,3,Own Tempo,Oblivious,Cloud Nine,385,90,55,75,60,75,30,45,50,77,Medium Fast,1,Monster,,50,20
 139,109,Koffing,1,Normal,Poison Gas Pokémon,1,Poison,,0.6,1,3,Levitate,Neutralizing Gas,Stench,340,40,65,95,60,45,35,190,50,68,Medium Fast,1,Amorphous,,50,20
 140,110,Weezing,1,Normal,Poison Gas Pokémon,1,Poison,,1.2,9.5,3,Levitate,Neutralizing Gas,Stench,490,65,90,120,85,70,60,60,50,172,Medium Fast,1,Amorphous,,50,20
-141,110,Galarian Weezing,1,Normal,Poison Gas Pokémon,2,Poison,Fairy,3,16,3,Levitate,Neutralizing Gas,Misty Surge,490,65,90,120,85,70,60,60,50,172,Medium Fast,1,Amorphous,,,20
+141,110,Galarian Weezing,1,Normal,Poison Gas Pokémon,2,Poison,Fairy,3,16,3,Levitate,Neutralizing Gas,Misty Surge,490,65,90,120,85,70,60,60,50,172,Medium Fast,1,Amorphous,,50,20
 142,111,Rhyhorn,1,Normal,Spikes Pokémon,2,Ground,Rock,1,115,3,Lightning Rod,Rock Head,Reckless,345,80,85,95,30,30,25,120,140,69,Slow,2,Field,Monster,50,20
 143,112,Rhydon,1,Normal,Drill Pokémon,2,Ground,Rock,1.9,120,3,Lightning Rod,Rock Head,Reckless,485,105,130,120,45,45,40,60,50,170,Slow,2,Field,Monster,50,20
 144,113,Chansey,1,Normal,Egg Pokémon,1,Normal,,1.1,34.6,3,Natural Cure,Serene Grace,Healer,450,250,5,5,35,105,50,30,50,395,Fast,1,Fairy,,0,40
@@ -154,7 +154,7 @@
 152,120,Staryu,1,Normal,Star Shape Pokémon,1,Water,,0.8,34.5,3,Illuminate,Natural Cure,Analytic,340,30,45,55,70,55,85,225,50,68,Slow,1,Water 3,,,20
 153,121,Starmie,1,Normal,Mysterious Pokémon,2,Water,Psychic,1.1,80,3,Illuminate,Natural Cure,Analytic,520,60,75,85,100,85,115,60,50,182,Slow,1,Water 3,,,20
 154,122,Mr. Mime,1,Normal,Barrier Pokémon,2,Psychic,Fairy,1.3,54.5,3,Soundproof,Filter,Technician,460,40,45,65,100,120,90,45,50,161,Medium Fast,1,Human-Like,,50,25
-155,122,Galarian Mr. Mime,1,Normal,Dancing Pokémon,2,Psychic,Ice,1.4,56.8,3,Vital Spirit,Screen Cleaner,Ice Body,460,50,65,65,90,90,100,45,50,161,Medium Fast,1,Human-Like,,,25
+155,122,Galarian Mr. Mime,1,Normal,Dancing Pokémon,2,Psychic,Ice,1.4,56.8,3,Vital Spirit,Screen Cleaner,Ice Body,460,50,65,65,90,90,100,45,50,161,Medium Fast,1,Human-Like,,50,25
 156,123,Scyther,1,Normal,Mantis Pokémon,2,Bug,Flying,1.5,56,3,Swarm,Technician,Steadfast,500,70,110,80,55,80,105,45,50,100,Medium Fast,1,Bug,,50,25
 157,124,Jynx,1,Normal,Human Shape Pokémon,2,Ice,Psychic,1.4,40.6,3,Oblivious,Forewarn,Dry Skin,455,65,50,35,115,95,95,45,50,159,Medium Fast,1,Human-Like,,0,25
 158,125,Electabuzz,1,Normal,Electric Pokémon,1,Electric,,1.1,30,2,Static,,Vital Spirit,490,65,83,57,95,85,105,45,50,172,Medium Fast,1,Human-Like,,75,25
@@ -264,7 +264,7 @@
 262,220,Swinub,2,Normal,Pig Pokémon,2,Ice,Ground,0.4,6.5,3,Oblivious,Snow Cloak,Thick Fat,250,50,50,40,30,30,50,225,50,50,Slow,1,Field,,50,20
 263,221,Piloswine,2,Normal,Swine Pokémon,2,Ice,Ground,1.1,55.8,3,Oblivious,Snow Cloak,Thick Fat,450,100,100,80,60,60,50,75,50,158,Slow,1,Field,,50,20
 264,222,Corsola,2,Normal,Coral Pokémon,2,Water,Rock,0.6,5,3,Hustle,Natural Cure,Regenerator,410,65,55,95,65,95,35,60,50,144,Fast,2,Water 1,Water 3,25,20
-265,222,Galarian Corsola,2,Normal,Coral Pokémon,1,Ghost,,0.6,0.5,2,Weak Armor,,Cursed Body,410,60,55,100,65,100,30,60,50,144,Fast,2,Water 1,Water 3,,20
+265,222,Galarian Corsola,2,Normal,Coral Pokémon,1,Ghost,,0.6,0.5,2,Weak Armor,,Cursed Body,410,60,55,100,65,100,30,60,50,144,Fast,2,Water 1,Water 3,25,20
 266,223,Remoraid,2,Normal,Jet Pokémon,1,Water,,0.6,12,3,Hustle,Sniper,Moody,300,35,65,35,65,35,65,190,50,60,Medium Fast,2,Water 1,Water 2,50,20
 267,224,Octillery,2,Normal,Jet Pokémon,1,Water,,0.9,28.5,3,Suction Cups,Sniper,Moody,480,75,105,75,105,75,45,75,50,168,Medium Fast,2,Water 1,Water 2,50,20
 268,225,Delibird,2,Normal,Delivery Pokémon,2,Ice,Flying,0.9,16,3,Vital Spirit,Hustle,Insomnia,330,45,55,45,65,45,75,45,50,116,Fast,2,Field,Water 1,50,20
@@ -311,9 +311,9 @@
 309,261,Poochyena,3,Normal,Bite Pokémon,1,Dark,,0.5,13.6,3,Run Away,Quick Feet,Rattled,220,35,55,35,30,30,35,255,50,56,Medium Fast,1,Field,,50,15
 310,262,Mightyena,3,Normal,Bite Pokémon,1,Dark,,1,37,3,Intimidate,Quick Feet,Moxie,420,70,90,70,60,60,70,127,50,147,Medium Fast,1,Field,,50,15
 311,263,Zigzagoon,3,Normal,TinyRaccoon Pokémon,1,Normal,,0.4,17.5,3,Pickup,Gluttony,Quick Feet,240,38,30,41,30,41,60,255,50,56,Medium Fast,1,Field,,50,15
-312,263,Galarian Zigzagoon,3,Normal,Tiny Raccoon Pokémon,2,Dark,Normal,0.4,17.5,3,Pickup,Gluttony,Quick Feet,240,38,30,41,30,41,60,255,50,56,Medium Fast,1,Field,,,15
+312,263,Galarian Zigzagoon,3,Normal,Tiny Raccoon Pokémon,2,Dark,Normal,0.4,17.5,3,Pickup,Gluttony,Quick Feet,240,38,30,41,30,41,60,255,50,56,Medium Fast,1,Field,,50,15
 313,264,Linoone,3,Normal,Rushing Pokémon,1,Normal,,0.5,32.5,3,Pickup,Gluttony,Quick Feet,420,78,70,61,50,61,100,90,50,147,Medium Fast,1,Field,,50,15
-314,264,Galarian Linoone,3,Normal,Rushing Pokémon,2,Dark,Normal,0.5,32.5,3,Pickup,Gluttony,Quick Feet,420,78,70,61,50,61,100,90,50,147,Medium Fast,1,Field,,,15
+314,264,Galarian Linoone,3,Normal,Rushing Pokémon,2,Dark,Normal,0.5,32.5,3,Pickup,Gluttony,Quick Feet,420,78,70,61,50,61,100,90,50,147,Medium Fast,1,Field,,50,15
 315,265,Wurmple,3,Normal,Worm Pokémon,1,Bug,,0.3,3.6,2,Shield Dust,,Run Away,195,45,45,35,20,30,20,255,50,56,Medium Fast,1,Bug,,50,15
 316,266,Silcoon,3,Normal,Cocoon Pokémon,1,Bug,,0.6,10,1,Shed Skin,,,205,50,35,55,25,25,15,120,50,72,Medium Fast,1,Bug,,50,15
 317,267,Beautifly,3,Normal,Butterfly Pokémon,2,Bug,Flying,1,28.4,2,Swarm,,Rivalry,395,60,70,50,100,50,65,45,50,178,Medium Fast,1,Bug,,50,15
@@ -645,11 +645,11 @@
 643,552,Krokorok,5,Normal,Desert Croc Pokémon,2,Ground,Dark,1,33.4,3,Intimidate,Moxie,Anger Point,351,60,82,45,45,45,74,90,50,123,Medium Slow,1,Field,,50,20
 644,553,Krookodile,5,Normal,Intimidation Pokémon,2,Ground,Dark,1.5,96.3,3,Intimidate,Moxie,Anger Point,519,95,117,80,65,70,92,45,50,234,Medium Slow,1,Field,,50,20
 645,554,Darumaka,5,Normal,Zen Charm Pokémon,1,Fire,,0.6,37.5,2,Hustle,,Inner Focus,315,70,90,45,15,45,50,120,50,63,Medium Slow,1,Field,,50,20
-646,554,Galarian Darumaka,5,Normal,Zen Charm Pokémon,1,Ice,,0.7,40,2,Hustle,,Inner Focus,315,70,90,45,15,45,50,120,50,63,Medium Slow,1,Field,,,20
+646,554,Galarian Darumaka,5,Normal,Zen Charm Pokémon,1,Ice,,0.7,40,2,Hustle,,Inner Focus,315,70,90,45,15,45,50,120,50,63,Medium Slow,1,Field,,50,20
 647,555,Darmanitan Standard Mode,5,Normal,Blazing Pokémon,1,Fire,,1.3,92.9,2,Sheer Force,,Zen Mode,480,105,140,55,30,55,95,60,50,168,Medium Slow,1,Field,,50,20
 648,555,Darmanitan Zen Mode,5,Normal,Blazing Pokémon,2,Fire,Psychic,1.3,92.9,2,Sheer Force,,Zen Mode,540,105,30,105,140,105,55,60,50,189,Medium Slow,1,Field,,50,20
-649,555,Darmanitan Galarian Standard Mode,5,Normal,Zen Charm Pokémon,1,Ice,,1.7,120,2,Gorilla Tactics,,Zen Mode,480,105,140,55,30,55,95,60,50,168,Medium Slow,1,Field,,,20
-650,555,Darmanitan Galarian Zen Mode,5,Normal,Zen Charm Pokémon,2,Ice,Fire,1.7,120,2,Gorilla Tactics,,Zen Mode,540,105,160,55,30,55,135,60,50,189,Medium Slow,1,Field,,,20
+649,555,Darmanitan Galarian Standard Mode,5,Normal,Zen Charm Pokémon,1,Ice,,1.7,120,2,Gorilla Tactics,,Zen Mode,480,105,140,55,30,55,95,60,50,168,Medium Slow,1,Field,,50,20
+650,555,Darmanitan Galarian Zen Mode,5,Normal,Zen Charm Pokémon,2,Ice,Fire,1.7,120,2,Gorilla Tactics,,Zen Mode,540,105,160,55,30,55,135,60,50,189,Medium Slow,1,Field,,50,20
 651,556,Maractus,5,Normal,Cactus Pokémon,1,Grass,,1,28,3,Water Absorb,Chlorophyll,Storm Drain,461,75,86,67,106,67,60,255,50,161,Medium Fast,1,Grass,,50,20
 652,557,Dwebble,5,Normal,Rock Inn Pokémon,2,Bug,Rock,0.3,14.5,3,Sturdy,Shell Armor,Weak Armor,325,50,65,85,35,35,55,190,35,65,Medium Fast,2,Bug,Mineral,50,20
 653,558,Crustle,5,Normal,Stone Home Pokémon,2,Bug,Rock,1.4,200,3,Sturdy,Shell Armor,Weak Armor,485,70,105,125,65,75,45,75,50,170,Medium Fast,2,Bug,Mineral,50,20
@@ -657,7 +657,7 @@
 655,560,Scrafty,5,Normal,Hoodlum Pokémon,2,Dark,Fighting,1.1,30,3,Shed Skin,Moxie,Intimidate,488,65,90,115,45,115,58,90,50,171,Medium Fast,2,Dragon,Field,50,15
 656,561,Sigilyph,5,Normal,Avianoid Pokémon,2,Psychic,Flying,1.4,14,3,Wonder Skin,Magic Guard,Tinted Lens,490,72,58,80,103,80,97,45,50,172,Medium Fast,1,Flying,,50,20
 657,562,Yamask,5,Normal,Spirit Pokémon,1,Ghost,,0.5,1.5,1,Mummy,,,303,38,30,85,55,65,30,190,50,61,Medium Fast,2,Amorphous,Mineral,50,25
-658,562,Galarian Yamask,5,Normal,Spirit Pokémon,2,Ground,Ghost,0.5,1.5,1,Wandering Spirit,,,303,38,55,85,30,65,30,190,50,61,Medium Fast,2,Amorphous,Mineral,,25
+658,562,Galarian Yamask,5,Normal,Spirit Pokémon,2,Ground,Ghost,0.5,1.5,1,Wandering Spirit,,,303,38,55,85,30,65,30,190,50,61,Medium Fast,2,Amorphous,Mineral,50,25
 659,563,Cofagrigus,5,Normal,Coffin Pokémon,1,Ghost,,1.7,76.5,1,Mummy,,,483,58,50,145,95,105,30,90,50,169,Medium Fast,2,Amorphous,Mineral,50,25
 660,564,Tirtouga,5,Normal,Prototurtle Pokémon,2,Water,Rock,0.7,16.5,3,Solid Rock,Sturdy,Swift Swim,355,54,78,103,53,45,22,45,50,71,Medium Fast,2,Water 1,Water 3,87.5,30
 661,565,Carracosta,5,Normal,Prototurtle Pokémon,2,Water,Rock,1.2,81,3,Solid Rock,Sturdy,Swift Swim,495,74,108,133,83,65,32,45,50,173,Medium Fast,2,Water 1,Water 3,87.5,30
@@ -714,7 +714,7 @@
 712,616,Shelmet,5,Normal,Snail Pokémon,1,Bug,,0.4,7.7,3,Hydration,Shell Armor,Overcoat,305,50,40,85,40,65,25,200,70,61,Medium Fast,1,Bug,,50,15
 713,617,Accelgor,5,Normal,Shell Out Pokémon,1,Bug,,0.8,25.3,3,Hydration,Sticky Hold,Unburden,495,80,70,40,100,60,145,75,50,173,Medium Fast,1,Bug,,50,15
 714,618,Stunfisk,5,Normal,Trap Pokémon,2,Ground,Electric,0.7,11,3,Static,Limber,Sand Veil,471,109,66,84,81,99,32,75,50,165,Medium Fast,2,Amorphous,Water 1,50,20
-715,618,Galarian Stunfisk,5,Normal,Trap Pokémon,2,Ground,Steel,0.7,20.5,1,Mimicry,,,471,109,81,99,66,84,32,75,50,165,Medium Fast,2,Amorphous,Water 1,,20
+715,618,Galarian Stunfisk,5,Normal,Trap Pokémon,2,Ground,Steel,0.7,20.5,1,Mimicry,,,471,109,81,99,66,84,32,75,50,165,Medium Fast,2,Amorphous,Water 1,50,20
 716,619,Mienfoo,5,Normal,Martial Arts Pokémon,1,Fighting,,0.9,20,3,Inner Focus,Regenerator,Reckless,350,45,85,50,55,50,65,180,50,70,Medium Slow,2,Field,Human-Like,50,25
 717,620,Mienshao,5,Normal,Martial Arts Pokémon,1,Fighting,,1.4,35.5,3,Inner Focus,Regenerator,Reckless,510,65,125,60,95,60,105,45,50,179,Medium Slow,2,Field,Human-Like,50,25
 718,621,Druddigon,5,Normal,Cave Pokémon,1,Dragon,,1.6,139,3,Rough Skin,Sheer Force,Mold Breaker,485,77,120,90,60,90,48,45,50,170,Medium Fast,2,Dragon,Monster,50,30
