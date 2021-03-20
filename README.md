@@ -6,7 +6,7 @@ A collection of models related to various aspects of Pokémon.
 
 ## Generate Pokémon
 Creating new Pokémon from images of pre-existing ones using a generative adversarial network (GAN).
-Model uses the DCGAN architecture, where both generator and discriminator are CNNs, based on the paper [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Ian Goodfellow et al.
+Model uses the DCGAN architecture, where both generator and discriminator are CNNs, based on the paper [*Generative Adversarial Networks*](https://arxiv.org/abs/1406.2661) by Ian Goodfellow et al.
 Model was trained for 50 epochs, with results saved at each step, and required much tuning. 
 
 Some hand-picked and cleaned examples of generated Pokémon produced by the model:
