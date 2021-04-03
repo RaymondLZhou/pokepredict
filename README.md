@@ -23,6 +23,9 @@ Using test images from the first 151 Pokémon, the model achieves an area under 
 Some examples of type predictions by the model (all are correct):
 ![output1](images/types/predictions.png)
 
+Inference can also be performed in the browser using a web server, with the exported model located at [/type_classification/web](/type_classification/web).
+![output](images/types/web.png)
+
 The notebooks for this section are located at [/type_classification](/type_classification).
 
 ## Legendary Prediction
