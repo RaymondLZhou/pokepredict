@@ -1,0 +1,36 @@
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js"> </script>
+</head>
+<body>
+    <img id="img" src="display.png" style="height:224px;width:224px"></img>
+    <div id="output" style="font-family:courier;font-size:24px;height:300px"></div>
+</body>
+<script>
+    const img = document.getElementById('img');
+    const output = document.getElementById('output');
+    const threshold = 0.6
+    const classes = ['type_Bug', 'type_Dark', 'type_Dragon', 'type_Electric', 'type_Fairy', 'type_Fighting',
+        'type_Fire', 'type_Flying', 'type_Ghost', 'type_Grass', 'type_Ground', 'type_Ice',
+        'type_Normal', 'type_Poison', 'type_Psychic', 'type_Rock', 'type_Steel', 'type_Water'];
+
+    async function run(imageTensor) {
+        const MODEL_URL = 'http://127.0.0.1:8887/model.json';
+        const model = await tf.loadLayersModel(MODEL_URL);
+        const predictions = await model.predict(imageTensor);
+
+        console.log(predictions.dataSync());
+
+        for(var i = 0; i < predictions.size; i++) {
+            if (predictions.dataSync()[i] > threshold) {
+                output.innerHTML += "<br/>" + classes[i] + " : " + predictions.dataSync()[i];
+            }
+        }        
+	}
+
+    img.onload = () => {
+        const imageTensor = tf.browser.fromPixels(img)
+        run(imageTensor.reshape([-1, 224, 224, 3]));
+    }
+</script>
+</html>
